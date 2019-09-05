@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d9b95', endColorstr='#0e1329',GradientType=1 );
+}
+
+canvas {
+    position: absolute;
+    left: 0;
+}
